@@ -15,4 +15,11 @@ Purpose of Annapurna[Food donating website].
 9. Raises Awareness: Highlights food waste and hunger issues, inspiring societal change.
 10.Legal Compliance: Meets legal obligations, ensuring safe consumption and adherence to regulations.
 
+   Technologies used :-
+
+   1. HTML
+   2. CSS
+   3. JavaScript
+   4. PHP
+
    Project created-by :- Vishal Kushwah.
